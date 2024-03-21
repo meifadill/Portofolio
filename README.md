@@ -30,7 +30,7 @@ Despite having no professional experience in software quality assurance, as a gr
 4. [Deployment Knowledge](https://docs.google.com/document/d/1jY7qKKRSpNzFHe9gjVUW4tlz7g8PfyPuXHrGgXLcu2Y/edit)
 5. Test Scenario & Test Case
 6. Bug Report
-7. API testing
+7. API testing [on Postman](https://documenter.getpostman.com/view/31930362/2s9YkuZJc1)
 8. Automation testing
    - cypress (web automation testing)
     - appium and robot framework (mobile automation testing)
@@ -49,14 +49,17 @@ Despite having no professional experience in software quality assurance, as a gr
 [Sanbercode.com](https://sanbercode.com/) Quality Assurance Bootcamp
 
 # Certificates 🏆
-[Bootcamp Quality Assurance Sanbercode](https://drive.google.com/file/d/1aYsfe0ZFxaSFwDnlUudbLng8gb_A4oDV/view?usp=sharing)
+* [Bootcamp Quality Assurance Sanbercode](https://drive.google.com/file/d/1aYsfe0ZFxaSFwDnlUudbLng8gb_A4oDV/view?usp=sharing) QA
+* [Grasshopper Coding Fundamental](https://drive.google.com/file/d/1QaF7boks2L7gQ5a0M5Kx_AFlD54pIGHB/view?usp=sharing) javascript fundamental
+* [Vocational School Graduate Academy](https://drive.google.com/file/d/1hAfwKdxER0JbofllL6Zbuj5Im1vT44O6/view?usp=sharing) Junior Web Developer
 
 # Samples 💡
 * [Bug reporting](https://docs.google.com/spreadsheets/d/1reoGvZdjacb1kH-aQ3yeTO0Vln93FZjKG6DnfhxqHwk/edit?usp=sharing)
 * [API testing using postman](https://documenter.getpostman.com/view/31930362/2s9YkraK4c)
 * [Test Case & Test Scenario](https://drive.google.com/drive/folders/1iA6cYPhUOr3_XNi2I_GuDMgQnjIG-Mbk)
 * [end-to-end testing on cypress](https://github.com/Aamilinm28/Sanber52-Cypress-Kelompok-14)
-* [Mobile testing using using appium and robot framework](url)
+* [Mobile testing using using appium and robot framework](https://github.com/junivia99/Sanber52-MobileAutomation-Kelompok-14)
+* [Black Box testing on my final project at college](https://github.com/meifadill/guestbook-system)
 
 
 
